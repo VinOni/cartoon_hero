@@ -3,6 +3,7 @@ body{
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	line-height: 28px;
+	background-color: antiquewhite;
 }
 
 header{
@@ -15,6 +16,9 @@ header{
 	h1, h2{
 		font-family: 'Rubik', sans-serif;
 	}
+
+/* header styles */
+/* write your comment */
 
 header h1{
 	color: white;
